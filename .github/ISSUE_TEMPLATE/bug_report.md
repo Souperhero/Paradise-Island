@@ -7,6 +7,9 @@ assignees: Souperhero
 
 ---
 
+**Which server is this for?**
+List one, multiple, or all! (Hub, SMP1.17, Skyblock, Prison, Pixelmon, SMP1.18)
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 

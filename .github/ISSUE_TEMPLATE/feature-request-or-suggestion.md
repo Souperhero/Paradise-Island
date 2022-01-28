@@ -7,6 +7,9 @@ assignees: Souperhero
 
 ---
 
+**Which server is this for?**
+List one, multiple, or all! (Hub, SMP1.17, Skyblock, Prison, Pixelmon, SMP1.18)
+
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
