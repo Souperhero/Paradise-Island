@@ -1,15 +1,16 @@
-
+# Determines how much items are worth on the server.
+# This can be set in this file, or by running the /setworth command.
 worth:
 
 # Building Blocks
 
   stone: .12
-  granite: ..11
-  polishedgranite: ..11
-  diorite: ..11
-  polisheddiorite: ..11
-  andesite: ..11
-  polishedandesite: ..11
+  granite: .11
+  polishedgranite: .11
+  diorite: .11
+  polisheddiorite: .11
+  andesite: .11
+  polishedandesite: .11
   deepslate: .12
   cobbleddeepslate: .1
   polisheddeepslate: .12
@@ -58,7 +59,7 @@ worth:
   deepslatelapisore: 5.0
   diamondore: 7.50
   deepslatediamondore: 7.50
-  nethergoldore: .15
+  nethergoldore: 75
   quartzore: 2.0
   ancientdebris: .17
   coalblock: .180
@@ -69,7 +70,7 @@ worth:
   buddingamethyst: 2.0
   ironblock: 90.0
   copperblock: 8.00
-  goldblock: 150.0
+  goldblock: 1350.0
   diamondblock: 9.000
   netheriteblock: .15000
   exposedcopper: 2.0
@@ -284,7 +285,7 @@ worth:
   darkprismarinestairs: .10
   sealantern: 2.5
   redsandstone: .10
-  chiseledredsandstone: ..11
+  chiseledredsandstone: .11
   cutredsandstone: 0.3
   redsandstonestairs: 0.25
   magmablock: .10
@@ -808,7 +809,7 @@ worth:
   rawcopper: .15
   copperingot: 2.0
   rawgold: 25
-  goldingot: 25.0
+  goldingot: 150.0
   netheriteingot: 13.50
   netheritescrap: 30.0
   stick: 0.1
@@ -864,7 +865,7 @@ worth:
   melonseeds: .10
   enderpearl: 2.0
   blazerod: 2.5
-  goldnugget: .10
+  goldnugget: 16.7
   netherwart: 2.4
   endereye: 2.3
   experiencebottle: 2.5
@@ -897,7 +898,7 @@ worth:
   musicdiscstal: .125
   musicdiscstrad: 4.4
   musicdiscward: 2.6
-  musicdisc..11: .15
+  musicdisc11: .15
   musicdiscwait: .178
   musicdiscpigstep: 2.0
   nautilusshell: .12
@@ -963,8 +964,8 @@ worth:
   stoneaxe: .15
   stonehoe: .15
   goldenshovel: 5.0
-  goldenpickaxe: .100
-  goldenaxe: .100
+  goldenpickaxe: 10.0
+  goldenaxe: 10.0
   goldenhoe: 7.5
   ironshovel: 3.0
   ironpickaxe: 5.0
@@ -993,7 +994,7 @@ worth:
   arrow: .10
   woodensword: .10
   stonesword: .15
-  goldensword: .130
+  goldensword: 13.0
   ironsword: 4.0
   diamondsword: .1750
   netheritesword: 2.100
